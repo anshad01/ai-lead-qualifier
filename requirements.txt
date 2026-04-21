@@ -1,0 +1,10 @@
+groq
+pandas
+pydantic
+pydantic-settings
+python-dotenv
+tenacity
+rich
+gspread
+google-auth
+pytest
